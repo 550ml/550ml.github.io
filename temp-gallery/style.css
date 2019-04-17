@@ -1,0 +1,21 @@
+body {
+  font-family: helvetica;
+  font-size: 15px;
+}
+
+.home {
+  font-size: 12px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+.time {
+  position: relative;
+  float: right;
+  margin-top: 0px;
+}
+
+.content {
+  margin-top: 0px;
+  float: left;
+  vertical-align: top;
+}
