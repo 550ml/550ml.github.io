@@ -4,7 +4,17 @@ body {
 
 .home {
   margin-left: 0px;
+  font-size:16px;
+}
+
+.archive {
+  margin-right: 0px;
   font-size: 10px;
+  float: right;
+}
+.time {
+  position: fixed;
+  bottom: 800px;
 }
 
 a:link {
