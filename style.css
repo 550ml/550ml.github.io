@@ -3,9 +3,8 @@ body {
 }
 
 .home {
-  text-align: left;
   margin-left: 0px;
-  font-size: 16px;
+  font-size: 10px;
 }
 
 a:link {
@@ -15,7 +14,7 @@ a:link {
 
 a:visited {
   text-decoration: none;
-  color: #00ff00;
+  color: #000000;
 }
 
 a:hover {
