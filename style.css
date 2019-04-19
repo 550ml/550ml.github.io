@@ -1,16 +1,9 @@
 body {
   font-family: "helvetica";
 }
-.nav {
-  text-align: left;
-}
+
 .home {
   font-size:16px;
-}
-
-.archive {
-  font-size: 10px;
-  float: right;
 }
 
 
