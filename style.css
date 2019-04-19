@@ -5,6 +5,15 @@ body {
 .home {
   font-size:16px;
 }
+.images {
+  width: 100px;
+  border: 1px solid transparent;
+}
+
+
+img {
+  width: 100px;
+}
 
 
 a:link {
