@@ -1,19 +1,32 @@
 body {
   font-family: "helvetica";
+  background-image: url(i/rui-3.jpeg);
+  background-repeat: repeat;
 }
 
 .home {
   font-size:16px;
 }
 .images {
-  width: auto;
+  width: 400px;
   border: 1px solid transparent;
+  float: left;
+}
+/*test
+.images-2 {
+  width: 400px;
+  float: right;
 }
 
 
+.images-2 img {
+  width:400px;
+}
+*/
+
+
 img {
-  width: 100px;
-  float: left;
+  width: 200px;
 }
 
 
