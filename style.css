@@ -12,22 +12,6 @@ body {
   border: 1px solid transparent;
   float: left;
 }
-/*test
-.images-2 {
-  width: 400px;
-  float: right;
-}
-
-
-.images-2 img {
-  width:400px;
-}
-*/
-
-
-img {
-  width: 200px;
-}
 
 
 a:link {
