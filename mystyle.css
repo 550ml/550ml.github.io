@@ -2,7 +2,8 @@ body {
   font-family: helvetica;
   color: black;
   background-image: url(i/bg-3.gif);
-  background-size: 100%;
+  background-size: 300%;
+  background-position: center;
   background-repeat:no-repeat;
   background-attachment: fixed;
 }
