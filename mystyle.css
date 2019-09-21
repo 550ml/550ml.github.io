@@ -26,8 +26,16 @@ a:active {
   text-decoration: none;
 }
 
-.items{
+.items a {
   font-size: 150px;
   float: right;
   position: relative;
+}
+.title {
+  float: left;
+  font-size: 30px;
+}
+.info {
+  float: right;
+  font-size: 30px;
 }
