@@ -39,3 +39,7 @@ a:active {
   float: right;
   font-size: 30px;
 }
+.email {
+ margin-top: 40px;
+ text-align: center;
+}
