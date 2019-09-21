@@ -1,6 +1,10 @@
 body {
   font-family: helvetica;
   color: black;
+  background-image: url(i/bg-3.gif);
+  background-size: 100%;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
 }
 p {
   font-size: 30px;
@@ -27,7 +31,7 @@ a:active {
 }
 
 .items a {
-  font-size: 150px;
+  font-size: 140px;
   float: right;
   position: relative;
 }
