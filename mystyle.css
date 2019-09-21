@@ -12,12 +12,12 @@ p {
   margin-top: 0px;
 }
  a:link {
-   color: black;
+   color: white;
    text-decoration: none;
  }
 
  a:visited {
-   color: black;
+   color: white;
    text-decoration: none;
  }
 
@@ -32,9 +32,9 @@ a:active {
 }
 
 .items a {
-  font-size: 140px;
   float: right;
-  position: relative;
+  font-size: 100px;
+  padding-top:50px;
 }
 .title {
   float: left;
