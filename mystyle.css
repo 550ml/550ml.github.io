@@ -6,3 +6,29 @@ p {
   font-size: 30px;
   margin-top: 0px;
 }
+ a:link {
+   color: black;
+   text-decoration: none;
+ }
+
+ a:visited {
+   color: black;
+   text-decoration: none;
+ }
+
+ a:hover {
+   color: #00ff00;
+   text-decoration: none;
+ }
+
+a:active {
+  color: #c000ff;
+  text-decoration: none;
+}
+
+.items{
+  font-size: 150px;
+  width: 220px;
+  float: left;
+  position: relative;
+}
