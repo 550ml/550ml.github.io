@@ -11,4 +11,5 @@ body {
   font-family: PingFangSC-Regular;
   text-align: center;
   font-size: 100px;
+  overflow: auto; 
 }
