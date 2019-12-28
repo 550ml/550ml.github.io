@@ -1,9 +1,13 @@
+body {
+  background-color: black;
+}
 .ani {
-  height: 1000px;
+  height: 1500px;
 }
 
 
 .titles {
+  color: white;
   font-family: PingFangSC-Regular;
   text-align: center;
   font-size: 100px;
