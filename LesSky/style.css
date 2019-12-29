@@ -1,8 +1,5 @@
 body {
-  background-image:url(i/catpuke.gif);
-  background-size:cover;
-  background-repeat:no-repeat;
-  background-attachment: fixed;
+background-color: #e1e1e1;
 
 }
 .les {
@@ -11,9 +8,7 @@ body {
 
 
 .titles {
-  color: yellow;
-  -webkit-text-stroke: 3px black;
-  text-stroke: 3px black;
+  color: black;
   font-family: PingFangSC-Regular;
   text-align: center;
   font-size: 100px;
