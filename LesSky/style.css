@@ -1,9 +1,19 @@
+body {
+  background-image:url(i/catpuke.gif);
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment: fixed
+
+}
 .les {
   height: 1500px;
 }
 
 
 .titles {
+  color: yellow;
+  -webkit-text-stroke: 3px black;
+  text-stroke: 3px black;
   font-family: PingFangSC-Regular;
   text-align: center;
   font-size: 100px;
