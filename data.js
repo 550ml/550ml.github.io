@@ -46,10 +46,18 @@ var data = {
 
 var picsdata = {
   "photos":[
+
+    {   "p_images": "a_f.jpg",
+        "p_descriptions": "a practice about creating landscapes, mix the daily objects together, to generate images.",
+        "p_titles": "xiaoyuan gao",
+
+
+      },
+
     {   "p_images": "human.jpg",
         "p_descriptions": "who is she?",
         "p_titles": "xiaoyuan gao",
-        "p_src":"https://www.youtube.com/embed/1wFbWfACKco"
+      
 
       }
     ]
