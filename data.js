@@ -14,12 +14,12 @@ var data = {
         "v_src":"https://www.youtube.com/embed/1wFbWfACKco",
    },
 
-          {
+        //  {
 
-            "v_titles": "kuan-ting chen",
-            "v_description": "Typo-Projection method",
-            "v_src":"https://www.youtube.com/embed/k4F6TTZSZNM"
-          },
+          //  "v_titles": "kuan-ting chen",
+          //  "v_description": "Typo-Projection method",
+          //  "v_src":"https://www.youtube.com/embed/k4F6TTZSZNM"
+        //  },
 
 
 
@@ -55,7 +55,7 @@ var picsdata = {
       },
 
     {   "p_images": "human.jpg",
-        "p_descriptions": "who is she?",
+        "p_descriptions": "what kind of human can i make?",
         "p_titles": "xiaoyuan gao",
 
 
