@@ -10,7 +10,7 @@ var data = {
 
     {
         "v_titles": "xiaoyuan gao",
-        "v_description": "a video about dreams and memories",
+        "v_description": "In this video, it talked about a person named Lily,  a photographer who takes photos every day... ",
         "v_src":"https://www.youtube.com/embed/1wFbWfACKco",
    },
 
@@ -57,7 +57,7 @@ var picsdata = {
     {   "p_images": "human.jpg",
         "p_descriptions": "who is she?",
         "p_titles": "xiaoyuan gao",
-      
+
 
       }
     ]
