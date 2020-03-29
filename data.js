@@ -47,6 +47,14 @@ var data = {
 var picsdata = {
   "photos":[
 
+    {   "p_images": "wearingmatters.png",
+        "p_descriptions": "living and wearing",
+        "p_titles": "xiaoyuan gao",
+
+
+      },
+
+
     {   "p_images": "a_f.jpg",
         "p_descriptions": "a practice about creating landscapes, mix the daily objects together, to generate images.",
         "p_titles": "xiaoyuan gao",
