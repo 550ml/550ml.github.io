@@ -53,6 +53,7 @@ body {
   float: right;
   width: 400px;
   text-align: left;
+  text-shadow: 2px 2px 4px black;
 }
 
 /* menu */
@@ -104,7 +105,7 @@ img {
 }
 .submit {
   width: 100%;
-  opacity: 0.7;
+  opacity: 0.8;
   background: rgb(29,255,0);
   background: linear-gradient(180deg, rgba(29,255,0,1) 0%, rgba(29,255,0,1) 35%, rgba(255,255,255,1) 100%);
   border-radius: 100px;
