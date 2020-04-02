@@ -3,6 +3,13 @@ var data = {
 
     {
 
+      "v_titles": "Cara Wittenhaus",
+      "v_description": "This is a place to write down, share and let go of all the hateful thoughts that you have. It felt relieving to me to write down these thoughts and give them a place to be.Unfiltered and unedited. together we create a place to archive (y(our)) hate",
+      "v_src":"https://docs.google.com/document/d/1L8zxi9hEKnhhZe3xV98HrJ6kSL4cDP31wYHc9xiCyts/edit?fbclid=IwAR0iGtTkhE0bnH868Lq3c306x9GL4ePiZj5_4fpMOoUKE1XG_Ie_GquErzI"
+    },
+
+    {
+
       "v_titles": "cheawon shin",
       "v_description": "Cheawon Shin and Sumin Choi made this work and all right reserved to them. / By using our magic power, we want to give a fascinating world to people.",
       "v_src":"https://www.youtube.com/embed/3CEeWTfgNSw"
