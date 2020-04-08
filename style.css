@@ -72,7 +72,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: purple;
+  color: #ae00ff;
   text-decoration: none;
 }
 
