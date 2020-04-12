@@ -63,6 +63,19 @@ var data = {
 var picsdata = {
   "photos":[
 
+    {
+
+      "p_images": "alexa3_Bin_Han.png",
+      "p_descriptions": "不窺牖, 見天道. 其出彌遠, 其知彌少, 문 밖을 나서지 않고도 세상을 알고, 창 밖을 내다보지 않고도 하늘의 도를 본다. 멀리 나갈수록 더욱 적게 안다고 함미당, Let's say be Alexa, Siri, and Geenie and L said, Knowing the world without leaving the door, Without looking out the window, I see the sky. The farther I go, the less I know. this webpage is great tho!",
+      "p_titles": "dongbin han"
+    },
+
+    {   "p_images": "530-Benjamin_McMillan.png",
+        "p_descriptions": "A Typeclub 530 workshop (http://fivethirty.today), an suggestion of how typefaces could be autocompleted",
+        "p_titles": "benjamin mcMillan"
+
+},
+
     {   "p_images": "wearingmatters.png",
         "p_descriptions": "living and wearing",
         "p_titles": "xiaoyuan gao",
