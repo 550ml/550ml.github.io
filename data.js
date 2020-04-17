@@ -3,6 +3,14 @@ var data = {
 
     {
 
+      "v_titles": "xiaoyuan gao",
+      "v_description": "a way of looking at useless photos we made every day",
+
+      "v_src":"ordinarylandscape/index.html"
+    },
+
+    {
+
       "v_titles": "jiamin zhangs",
       "v_description": "Jiamin Zhang Happy Improvisation112018",
 
