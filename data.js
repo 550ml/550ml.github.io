@@ -1,13 +1,7 @@
 var data = {
   "works":[
 
-    {
-
-      "v_titles": "xiaoyuan gao",
-      "v_description": "a way of looking at useless photos we made every day",
-
-      "v_src":"ordinarylandscape/index.html"
-    },
+  
 
     {
 
